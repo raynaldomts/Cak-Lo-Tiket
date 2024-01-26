@@ -1,2 +1,5 @@
 # Cak-Lo-Tiket
-Ticketing
+Ticketing-Project
+Cak Lo Tiket merupakan sebuah aplikasi pemesanan tiket pesawat yang berada di Siborongborong untuk penerbangan dari Bandara Silangit. Dimana aplikasi ini mampu menangani beberapa fungsi, seperti pengguna dapat memilih maskapai penerbangan beserta jadwal penerbangan yang akan dilakukan, kemudian pengguna dapat memilih tujuan (destination) yang akan dilakukan dengan keberangkatan (departure) dari Bandara Silangit. Selain itu pengguna juga dapat melakukan refund, tiket dengan syarat refund dilakukan paling lama 1 minggu sebelum tanggal keberangkatan. Namun umlah uang yang dapat di refund hanya 50% dari total yang sudah dibayarkan. Kemudian aplikasi ini nantinya juga akan menyediakan diskon pemesanan tiket pada tanggal 25 di setiap bulannya sebesar 30%.
+
+Diasumsikan bahwa pengguna yang ingin memesan tiket penerbangan melalui aplikasi ini sudah memiliki akun yang sudah terdaftar terlebih dahulu. Ketika pengguna telah memesan tiket penerbangan, pengguna akan melakukan pembayaran melalui ATM maupun pembayaran secara virtual. Selain itu aplikasi dapat menyediakan fitur chek-in online dua jam sebelum keberangkatan.
